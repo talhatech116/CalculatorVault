@@ -1,6 +1,6 @@
-# 🔒 CalcVault – Hidden File Locker & App Protector
+# 🔒 CalculatorVault – Hidden File Locker & App Protector
 
-**CalcVault** is a smart privacy protection app that disguises itself as a regular calculator but functions as a secure vault to hide your private photos, videos, documents, audio files, and even block access to selected apps. With a stealth interface and powerful file protection system, your personal data stays safe and invisible.
+**CalculatorVault** is a smart privacy protection app that disguises itself as a regular calculator but functions as a secure vault to hide your private photos, videos, documents, audio files, and even block access to selected apps. With a stealth interface and powerful file protection system, your personal data stays safe and invisible.
 
 ---
 
